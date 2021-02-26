@@ -1,0 +1,11 @@
+span{color: beige; background-color: chocolate;}
+span.greenColor{
+    color:rgb(156, 255, 143);
+    font-family:arial;
+    font-size:24px;
+}
+#specificLink{
+    color:greenyellow;
+    font-family:arial;
+    font-size:28px;
+}
